@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="estilos/Style.css">
+	<title>MyCardPersonal</title>
+</head>
+<body>
+	<div class="container">
+		<div class="cardpersonal">
+			<div class="cardImagen">
+				<img src="https://www.latercera.com/resizer/3TdSaeWDQDb6LR6PMj4B7¡-6hvY=/380x570/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/LS6NAJWL4ZA4PMRN4MTK5YYLBE.jpeg"alt="YoMismo">
+			</div>
+			<div class="cardinfo">
+				<h1>Protocolo Covid</h1>
+				<h2>DEPARTAMENTO DE ADMINISTRACION</h2>
+				<h3>Medidas de auto cuidado</h3>
+				<P>Uso de mascarilla en tiendas locales</P>
+				<p>Uso de gel en las manos</P>
+				<p>distaciamiento de 1 metro por persona</P>
+			</div>
+		</div>
+	</div>	
+</body>
+</html>
